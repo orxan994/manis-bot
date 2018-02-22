@@ -1,0 +1,2 @@
+# manis-bot
+ozuycun oxuyur
